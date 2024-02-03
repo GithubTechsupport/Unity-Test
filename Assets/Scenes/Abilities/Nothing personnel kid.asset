@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee8af187f1cb4d94f87770d7b3262af5, type: 3}
+  m_Name: Nothing personnel kid
+  m_EditorClassIdentifier: 
+  name: 
+  cooldownTime: 7
+  activeTime: 0
+  wep: {fileID: 0}
+  dir: 0
+  dmg: 5
+  dist: 25
+  hbxHeight: 2
+  slowSpeed: 1
